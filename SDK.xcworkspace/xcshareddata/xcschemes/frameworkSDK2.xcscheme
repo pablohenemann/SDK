@@ -38,6 +38,16 @@
                ReferencedContainer = "container:frameworkSDK2/frameworkSDK2.xcodeproj">
             </BuildableReference>
          </TestableReference>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "DA0F8C6D1E5780A300E43B22"
+               BuildableName = "FrameworkSDKTests.xctest"
+               BlueprintName = "FrameworkSDKTests"
+               ReferencedContainer = "container:FrameworkSDK/FrameworkSDK.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
