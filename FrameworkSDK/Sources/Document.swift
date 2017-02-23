@@ -21,6 +21,7 @@ public class Document {
     private(set) public var approved: Bool
     
     public init(name: String, kind: DocumentKind) {
+        
         self.approved = false
         self.kind = kind
         self.name = name
